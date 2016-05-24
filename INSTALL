@@ -1,8 +1,0 @@
------------------------------------------------
- A Statistics library for Haskell
------------------------------------------------
-
-INSTALLATION
-
-cabal install hstatistics
-
